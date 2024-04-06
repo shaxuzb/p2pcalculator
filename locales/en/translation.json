@@ -1,0 +1,10 @@
+{
+    "header":{
+        "lan": "Language",
+        "supp": "Support",
+        "currenc": "Sum",
+        "buy": "Buy",
+        "sell": "Sell",
+        "persent": "Persentage"
+    }
+}
